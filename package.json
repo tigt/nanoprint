@@ -1,0 +1,21 @@
+{
+  "name": "nanoprint",
+  "version": "1.0.0",
+  "description": "Creates the tiniest cachebusting static asset hashes you ever did see.",
+  "main": "nanostamp.js",
+  "author": "Taylor “Tigt” Hunt",
+  "license": "MIT",
+  "keywords": [
+    "buffer",
+    "cache",
+    "caching",
+    "file",
+    "fingerprint",
+    "hash",
+    "hash",
+    "md5",
+    "revving",
+    "string",
+    "web"
+  ]
+}
